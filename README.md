@@ -1,6 +1,6 @@
 # Gallerye
 
-Group proecjt during Bootcamp in Fullstack dev.
+Group project during Bootcamp in Fullstack development.
 
 Project: Gallerye is an open-source E-commerce art site that allows artists and art collectors to buy/sell artworks directly sourced from other individuals. It represents a virtual gallery similar to Saatchi.com or Arnet.com.
 
