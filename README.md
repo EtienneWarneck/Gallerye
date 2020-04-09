@@ -13,7 +13,6 @@ Challenges:
 * Paypal or other platform for payment.
 
 ![](screenshots/gallery_01.png)
-
 ![](screenshots/gallery_02.png)
 
 
