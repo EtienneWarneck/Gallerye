@@ -2,7 +2,7 @@
 
 Group project during Bootcamp in Fullstack development.
 
-Project: Gallerye is an open-source E-commerce art site that allows artists and art collectors to buy/sell artworks directly sourced from other individuals. It represents a virtual gallery similar to Saatchi.com or Arnet.com.
+Project: Gallerye is an open-source E-commerce art site that allows artists and art collectors to buy/sell artworks directly sourced from other individuals and to filter artworks by prices or year. It represents a virtual gallery similar to Saatchi.com or Arnet.com.
 
 Tools: HTML, CSS, AWS, SQL, Sequelize, Photoshop.
 
